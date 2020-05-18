@@ -1,0 +1,1 @@
+This is a series of Python Challenges that I have been coding at school and home. I have used the core python IDE for the first few challenges, then i switched to VS Code, and am currently using Pycharm Professional for these challenges. 
