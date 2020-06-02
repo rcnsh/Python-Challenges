@@ -1,3 +1,6 @@
+#Ask the user to enter two numbers. Add them together and display the answer as004“The total is [answer]”.
+
+
 number1 = input(" Please Enter the First Number: ")
 number2 = input(" Please Enter the second number: ")
 sum = float(number1) + float(number2)

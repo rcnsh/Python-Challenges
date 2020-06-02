@@ -1,3 +1,6 @@
+#Write code that will display the joke and then the answer on the next line.
+
+
 print('What do you get when you cross a snowman with a vampire?')
 
 input()
