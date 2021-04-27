@@ -1,0 +1,5 @@
+countries = ("England", "Scotland", "Ireland", "Wales", "United Kingdom")
+print (countries)
+ask = input("Enter the country you want to locate")
+index = countries.index(ask)
+print (int(index) + 1)

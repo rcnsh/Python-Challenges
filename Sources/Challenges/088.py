@@ -1,0 +1,11 @@
+from array import *
+print("GIVE ME 5 DIFFERANT WHOLE NUMBERS\n")
+ask1 = int(input(""))
+ask2 = int(input(""))
+ask3 = int(input(""))
+ask4 = int(input(""))
+ask5 = int(input(""))
+numbers = array('i', [ask1, ask2, ask3, ask4, ask5])
+numbers = sorted(numbers)
+numbers.reverse()
+print (numbers)
