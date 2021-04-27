@@ -5,4 +5,4 @@ if num1 < 20:
 elif num1 > 10:
     print("YAY")
 
-else print ("NOOOOOOO")
+else print("NOOOOOOO")
